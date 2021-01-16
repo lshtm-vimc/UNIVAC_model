@@ -1,0 +1,4 @@
+useDynLib(mypackage, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
+export("rescale_to_coverage", "incremental_cov_leakage", "impact_time_week", "cumulative_covC", "incremental_covC")

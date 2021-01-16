@@ -1,0 +1,21 @@
+pathogen,disease,Mid_healthy_time_lost,Low_healthy_time_lost,High_healthy_time_lost,Source,Mid_duration_of_illness,Low_duration_of_illness,High_duration_of_illness,Source.1
+Rota,Non-severe RVGE,0.188,0.125,0.264,Salomon J. 2015 (proxy: Moderate diarrhoea),0.013689254,0.008213552,0.019164956,Centers for Disease Control and Prevention (CDC). The Pink Book. Rotavirus. Last updated 8th September 2015. Available at: https://www.cdc.gov/vaccines/pubs/pinkbook/rota.html (accessed 24th February 2017).  Note: Minimum of reported range (3-7 days) used for non-severe RVGE (3 days) and maximum for severe RVGE (7 days). Both converted to years (3/365; 7/365) as per UNIVAC requirements. 
+Rota,Severe RVGE,0.247,0.164,0.348,Salomon J. 2015 (proxy: Severe diarrhoea),0.013689254,0.008213552,0.019164956,Centers for Disease Control and Prevention (CDC). The Pink Book. Rotavirus. Last updated 8th September 2015. Available at: https://www.cdc.gov/vaccines/pubs/pinkbook/rota.html (accessed 24th February 2017).  Note: Minimum of reported range (3-7 days) used for non-severe RVGE (3 days) and maximum for severe RVGE (7 days). Both converted to years (3/365; 7/365) as per UNIVAC requirements. 
+Rota,Intussusception,0.324,0.22,0.442,"Salomon J. 2015 (Abdominopelvic problem, severe)",0.005475702,0.000684463,0.027378508,Jehangir Vaccine 2014 - 48 h (range 6–240 h) between onset and hospital in India. i.e. 2 days (range 0.25 - 10 days).  https://www.sciencedirect.com/science/article/pii/S0264410X14003727
+HPV,Cervical cancer (local),0.288,0.193,0.399,Salomon J. 2015 (proxy: Diagnosis and primary therapy phase of cervical cancer),15,15,15,Assumption
+HPV,Cervical cancer (regional),0.451,0.307,0.6,Salomon J. 2015 (proxy: Metastatic phase of cervical cancer),7.5,7.5,7.5,Assumption
+HPV,Cervical cancer (distant),0.54,0.377,0.687,Salomon J. 2015 (proxy: Terminal phase of cervical cancer),2.5,2.5,2.5,Assumption
+HPV,Cervical cancer (deaths),1,1,1,Only used for YLL,0,0,0,Only used for YLL
+Bp,Whooping cough,0.133,0.088,0.19,"Salomon J. 2015 (Infectious disease, acute episode, severe)",0.019164956,0.010951403,0.038329911,Assumption (7 days [4-14])
+Hib,Hib pneumonia (non-severe),0.051,0.032,0.074,Salomon J. 2015 (proxy: moderate lower respiratory infection),0.019178082,0.019178082,0.019178082,Assumption
+Hib,Hib pneumonia (severe),0.133,0.088,0.19,Salomon J. 2015 (proxy: severe lower respiratory infection),0.027472527,0.019230769,0.057692308,Assumption
+Hib,Hib meningitis,0.133,0.088,0.19,Salomon J. 2015,0.027472527,0.019230769,0.057692308,Assumption
+Hib,Hib NPNM,0.051,0.032,0.074,Asssumption (same as non-severe pneumonia),0.027472527,0.019230769,0.057692308,Assumption
+Hib,Hib Meningitis sequelae,0.26,0.153,0.364,Assumption,50,50,50,Assumption
+Sp,Sp acute otitis media,0.013,0.007,0.024,Salomon J. 2015,0.019178082,0.019178082,0.019178082,Assumption
+Sp,Sp pneumonia (non-severe),0.051,0.032,0.074,Salomon J. 2015 (proxy: moderate lower respiratory infection),0.019178082,0.019178082,0.019178082,Assumption
+Sp,Sp pneumonia (severe),0.133,0.088,0.19,Salomon J. 2015 (proxy: severe lower respiratory infection),0.027472527,0.019230769,0.057692308,Assumption
+Sp,Sp meningitis,0.133,0.088,0.19,Salomon J. 2015,0.027472527,0.019230769,0.057692308,Assumption
+Sp,Sp NPNM (non-severe),0.051,0.032,0.074,Asssumption (same as non-severe pneumonia),0.019178082,0.019178082,0.019178082,Assumption
+Sp,Sp NPNM (severe),0.133,0.088,0.19,Asssumption (same as meningitis),0.027472527,0.019230769,0.057692308,Assumption
+Sp,Sp Meningitis sequelae,0.26,0.153,0.364,Assumption,50,50,50,Assumption

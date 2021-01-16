@@ -1,0 +1,361 @@
+"country","mortality_group","pathogen","brand","Dose","efficacy","scaling_factor","gamma_params","mid","low","high"
+"India","High","Sp","PCV13","D1","E1",1,"VE",0.29,0.15,0.38
+"India","High","Sp","PCV13","D1","E1",1,"Mean",10000,10000,10000
+"India","High","Sp","PCV13","D1","E1",1,"alpha",100,100,100
+"India","High","Sp","PCV13","D1","E1",1,"beta",100,100,100
+"India","High","Sp","PCV13","D2","E1",1,"VE",0.58,0.29,0.75
+"India","High","Sp","PCV13","D2","E1",1,"Mean",10000,10000,10000
+"India","High","Sp","PCV13","D2","E1",1,"alpha",100,100,100
+"India","High","Sp","PCV13","D2","E1",1,"beta",100,100,100
+"India","High","Sp","PCV13","D3","E1",1,"VE",0.58,0.29,0.75
+"India","High","Sp","PCV13","D3","E1",1,"Mean",10000,10000,10000
+"India","High","Sp","PCV13","D3","E1",1,"alpha",100,100,100
+"India","High","Sp","PCV13","D3","E1",1,"beta",100,100,100
+"India","High","Sp","PCV13","D1","E2",0.7,"VE",0.203,0.105,0.266
+"India","High","Sp","PCV13","D1","E2",0.7,"Mean",10000,10000,10000
+"India","High","Sp","PCV13","D1","E2",0.7,"alpha",100,100,100
+"India","High","Sp","PCV13","D1","E2",0.7,"beta",100,100,100
+"India","High","Sp","PCV13","D2","E2",0.7,"VE",0.406,0.203,0.525
+"India","High","Sp","PCV13","D2","E2",0.7,"Mean",10000,10000,10000
+"India","High","Sp","PCV13","D2","E2",0.7,"alpha",100,100,100
+"India","High","Sp","PCV13","D2","E2",0.7,"beta",100,100,100
+"India","High","Sp","PCV13","D3","E2",0.7,"VE",0.406,0.203,0.525
+"India","High","Sp","PCV13","D3","E2",0.7,"Mean",10000,10000,10000
+"India","High","Sp","PCV13","D3","E2",0.7,"alpha",100,100,100
+"India","High","Sp","PCV13","D3","E2",0.7,"beta",100,100,100
+"India","High","Rota","ROTARIX","D1","E1",1,"VE",0.5,0.38,0.65
+"India","High","Rota","ROTARIX","D1","E1",1,"Mean",13.18,8.99,20.54
+"India","High","Rota","ROTARIX","D1","E1",1,"alpha",0.4,0.4,0.4
+"India","High","Rota","ROTARIX","D1","E1",1,"beta",32.95,22.475,51.35
+"India","High","Rota","ROTARIX","D2","E1",1,"VE",0.79,0.75,0.82
+"India","High","Rota","ROTARIX","D2","E1",1,"Mean",13.18,8.99,20.54
+"India","High","Rota","ROTARIX","D2","E1",1,"alpha",0.4,0.4,0.4
+"India","High","Rota","ROTARIX","D2","E1",1,"beta",32.95,22.475,51.35
+"India","High","Rota","ROTARIX","D3","E1",1,"VE",0.79,0.75,0.82
+"India","High","Rota","ROTARIX","D3","E1",1,"Mean",13.18,8.99,20.54
+"India","High","Rota","ROTARIX","D3","E1",1,"alpha",0.4,0.4,0.4
+"India","High","Rota","ROTARIX","D3","E1",1,"beta",32.95,22.475,51.35
+"India","High","Rota","ROTARIX","D1","E2",0.85,"VE",0.425,0.323,0.5525
+"India","High","Rota","ROTARIX","D1","E2",0.85,"Mean",13.18,8.99,20.54
+"India","High","Rota","ROTARIX","D1","E2",0.85,"alpha",0.4,0.4,0.4
+"India","High","Rota","ROTARIX","D1","E2",0.85,"beta",32.95,22.475,51.35
+"India","High","Rota","ROTARIX","D2","E2",0.85,"VE",0.6715,0.6375,0.697
+"India","High","Rota","ROTARIX","D2","E2",0.85,"Mean",13.18,8.99,20.54
+"India","High","Rota","ROTARIX","D2","E2",0.85,"alpha",0.4,0.4,0.4
+"India","High","Rota","ROTARIX","D2","E2",0.85,"beta",32.95,22.475,51.35
+"India","High","Rota","ROTARIX","D3","E2",0.85,"VE",0.6715,0.6375,0.697
+"India","High","Rota","ROTARIX","D3","E2",0.85,"Mean",13.18,8.99,20.54
+"India","High","Rota","ROTARIX","D3","E2",0.85,"alpha",0.4,0.4,0.4
+"India","High","Rota","ROTARIX","D3","E2",0.85,"beta",32.95,22.475,51.35
+"India","High","Hib","Hib vaccine","D1","E1",1,"VE",0.59,0,0.86
+"India","High","Hib","Hib vaccine","D1","E1",1,"Mean",10000,10000,10000
+"India","High","Hib","Hib vaccine","D1","E1",1,"alpha",100,100,100
+"India","High","Hib","Hib vaccine","D1","E1",1,"beta",100,100,100
+"India","High","Hib","Hib vaccine","D2","E1",1,"VE",0.92,0.69,0.98
+"India","High","Hib","Hib vaccine","D2","E1",1,"Mean",10000,10000,10000
+"India","High","Hib","Hib vaccine","D2","E1",1,"alpha",100,100,100
+"India","High","Hib","Hib vaccine","D2","E1",1,"beta",100,100,100
+"India","High","Hib","Hib vaccine","D3","E1",1,"VE",0.93,0.83,0.97
+"India","High","Hib","Hib vaccine","D3","E1",1,"Mean",10000,10000,10000
+"India","High","Hib","Hib vaccine","D3","E1",1,"alpha",100,100,100
+"India","High","Hib","Hib vaccine","D3","E1",1,"beta",100,100,100
+"India","High","Hib","Hib vaccine","D1","E2",0.7,"VE",0.413,0,0.602
+"India","High","Hib","Hib vaccine","D1","E2",0.7,"Mean",10000,10000,10000
+"India","High","Hib","Hib vaccine","D1","E2",0.7,"alpha",100,100,100
+"India","High","Hib","Hib vaccine","D1","E2",0.7,"beta",100,100,100
+"India","High","Hib","Hib vaccine","D2","E2",0.7,"VE",0.644,0.483,0.686
+"India","High","Hib","Hib vaccine","D2","E2",0.7,"Mean",10000,10000,10000
+"India","High","Hib","Hib vaccine","D2","E2",0.7,"alpha",100,100,100
+"India","High","Hib","Hib vaccine","D2","E2",0.7,"beta",100,100,100
+"India","High","Hib","Hib vaccine","D3","E2",0.7,"VE",0.651,0.581,0.679
+"India","High","Hib","Hib vaccine","D3","E2",0.7,"Mean",10000,10000,10000
+"India","High","Hib","Hib vaccine","D3","E2",0.7,"alpha",100,100,100
+"India","High","Hib","Hib vaccine","D3","E2",0.7,"beta",100,100,100
+"China","Medium","Sp","PCV13","D1","E1",1,"VE",0.29,0.15,0.38
+"China","Medium","Sp","PCV13","D1","E1",1,"Mean",10000,10000,10000
+"China","Medium","Sp","PCV13","D1","E1",1,"alpha",100,100,100
+"China","Medium","Sp","PCV13","D1","E1",1,"beta",100,100,100
+"China","Medium","Sp","PCV13","D2","E1",1,"VE",0.58,0.29,0.75
+"China","Medium","Sp","PCV13","D2","E1",1,"Mean",10000,10000,10000
+"China","Medium","Sp","PCV13","D2","E1",1,"alpha",100,100,100
+"China","Medium","Sp","PCV13","D2","E1",1,"beta",100,100,100
+"China","Medium","Sp","PCV13","D3","E1",1,"VE",0.58,0.29,0.75
+"China","Medium","Sp","PCV13","D3","E1",1,"Mean",10000,10000,10000
+"China","Medium","Sp","PCV13","D3","E1",1,"alpha",100,100,100
+"China","Medium","Sp","PCV13","D3","E1",1,"beta",100,100,100
+"China","Medium","Sp","PCV13","D1","E2",0.7,"VE",0.203,0.105,0.266
+"China","Medium","Sp","PCV13","D1","E2",0.7,"Mean",10000,10000,10000
+"China","Medium","Sp","PCV13","D1","E2",0.7,"alpha",100,100,100
+"China","Medium","Sp","PCV13","D1","E2",0.7,"beta",100,100,100
+"China","Medium","Sp","PCV13","D2","E2",0.7,"VE",0.406,0.203,0.525
+"China","Medium","Sp","PCV13","D2","E2",0.7,"Mean",10000,10000,10000
+"China","Medium","Sp","PCV13","D2","E2",0.7,"alpha",100,100,100
+"China","Medium","Sp","PCV13","D2","E2",0.7,"beta",100,100,100
+"China","Medium","Sp","PCV13","D3","E2",0.7,"VE",0.406,0.203,0.525
+"China","Medium","Sp","PCV13","D3","E2",0.7,"Mean",10000,10000,10000
+"China","Medium","Sp","PCV13","D3","E2",0.7,"alpha",100,100,100
+"China","Medium","Sp","PCV13","D3","E2",0.7,"beta",100,100,100
+"China","Medium","Rota","ROTARIX","D1","E1",1,"VE",0.58,0.45,0.74
+"China","Medium","Rota","ROTARIX","D1","E1",1,"Mean",121.86,81.26,182.36
+"China","Medium","Rota","ROTARIX","D1","E1",1,"alpha",0.4,0.4,0.4
+"China","Medium","Rota","ROTARIX","D1","E1",1,"beta",304.65,203.15,455.9
+"China","Medium","Rota","ROTARIX","D2","E1",1,"VE",0.91,0.9,0.93
+"China","Medium","Rota","ROTARIX","D2","E1",1,"Mean",121.86,81.26,182.36
+"China","Medium","Rota","ROTARIX","D2","E1",1,"alpha",0.4,0.4,0.4
+"China","Medium","Rota","ROTARIX","D2","E1",1,"beta",304.65,203.15,455.9
+"China","Medium","Rota","ROTARIX","D3","E1",1,"VE",0.91,0.9,0.93
+"China","Medium","Rota","ROTARIX","D3","E1",1,"Mean",121.86,81.26,182.36
+"China","Medium","Rota","ROTARIX","D3","E1",1,"alpha",0.4,0.4,0.4
+"China","Medium","Rota","ROTARIX","D3","E1",1,"beta",304.65,203.15,455.9
+"China","Medium","Rota","ROTARIX","D1","E2",0.85,"VE",0.493,0.3825,0.629
+"China","Medium","Rota","ROTARIX","D1","E2",0.85,"Mean",121.86,81.26,182.36
+"China","Medium","Rota","ROTARIX","D1","E2",0.85,"alpha",0.4,0.4,0.4
+"China","Medium","Rota","ROTARIX","D1","E2",0.85,"beta",304.65,203.15,455.9
+"China","Medium","Rota","ROTARIX","D2","E2",0.85,"VE",0.7735,0.765,0.7905
+"China","Medium","Rota","ROTARIX","D2","E2",0.85,"Mean",121.86,81.26,182.36
+"China","Medium","Rota","ROTARIX","D2","E2",0.85,"alpha",0.4,0.4,0.4
+"China","Medium","Rota","ROTARIX","D2","E2",0.85,"beta",304.65,203.15,455.9
+"China","Medium","Rota","ROTARIX","D3","E2",0.85,"VE",0.7735,0.765,0.7905
+"China","Medium","Rota","ROTARIX","D3","E2",0.85,"Mean",121.86,81.26,182.36
+"China","Medium","Rota","ROTARIX","D3","E2",0.85,"alpha",0.4,0.4,0.4
+"China","Medium","Rota","ROTARIX","D3","E2",0.85,"beta",304.65,203.15,455.9
+"China","Medium","Hib","Hib vaccine","D1","E1",1,"VE",0.59,0,0.86
+"China","Medium","Hib","Hib vaccine","D1","E1",1,"Mean",10000,10000,10000
+"China","Medium","Hib","Hib vaccine","D1","E1",1,"alpha",100,100,100
+"China","Medium","Hib","Hib vaccine","D1","E1",1,"beta",100,100,100
+"China","Medium","Hib","Hib vaccine","D2","E1",1,"VE",0.92,0.69,0.98
+"China","Medium","Hib","Hib vaccine","D2","E1",1,"Mean",10000,10000,10000
+"China","Medium","Hib","Hib vaccine","D2","E1",1,"alpha",100,100,100
+"China","Medium","Hib","Hib vaccine","D2","E1",1,"beta",100,100,100
+"China","Medium","Hib","Hib vaccine","D3","E1",1,"VE",0.93,0.83,0.97
+"China","Medium","Hib","Hib vaccine","D3","E1",1,"Mean",10000,10000,10000
+"China","Medium","Hib","Hib vaccine","D3","E1",1,"alpha",100,100,100
+"China","Medium","Hib","Hib vaccine","D3","E1",1,"beta",100,100,100
+"China","Medium","Hib","Hib vaccine","D1","E2",0.7,"VE",0.413,0,0.602
+"China","Medium","Hib","Hib vaccine","D1","E2",0.7,"Mean",10000,10000,10000
+"China","Medium","Hib","Hib vaccine","D1","E2",0.7,"alpha",100,100,100
+"China","Medium","Hib","Hib vaccine","D1","E2",0.7,"beta",100,100,100
+"China","Medium","Hib","Hib vaccine","D2","E2",0.7,"VE",0.644,0.483,0.686
+"China","Medium","Hib","Hib vaccine","D2","E2",0.7,"Mean",10000,10000,10000
+"China","Medium","Hib","Hib vaccine","D2","E2",0.7,"alpha",100,100,100
+"China","Medium","Hib","Hib vaccine","D2","E2",0.7,"beta",100,100,100
+"China","Medium","Hib","Hib vaccine","D3","E2",0.7,"VE",0.651,0.581,0.679
+"China","Medium","Hib","Hib vaccine","D3","E2",0.7,"Mean",10000,10000,10000
+"China","Medium","Hib","Hib vaccine","D3","E2",0.7,"alpha",100,100,100
+"China","Medium","Hib","Hib vaccine","D3","E2",0.7,"beta",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D1","E1",1,"VE",0.29,0.15,0.38
+"Ethiopia","Very high","Sp","PCV13","D1","E1",1,"Mean",10000,10000,10000
+"Ethiopia","Very high","Sp","PCV13","D1","E1",1,"alpha",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D1","E1",1,"beta",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D2","E1",1,"VE",0.58,0.29,0.75
+"Ethiopia","Very high","Sp","PCV13","D2","E1",1,"Mean",10000,10000,10000
+"Ethiopia","Very high","Sp","PCV13","D2","E1",1,"alpha",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D2","E1",1,"beta",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D3","E1",1,"VE",0.58,0.29,0.75
+"Ethiopia","Very high","Sp","PCV13","D3","E1",1,"Mean",10000,10000,10000
+"Ethiopia","Very high","Sp","PCV13","D3","E1",1,"alpha",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D3","E1",1,"beta",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D1","E2",0.7,"VE",0.203,0.105,0.266
+"Ethiopia","Very high","Sp","PCV13","D1","E2",0.7,"Mean",10000,10000,10000
+"Ethiopia","Very high","Sp","PCV13","D1","E2",0.7,"alpha",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D1","E2",0.7,"beta",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D2","E2",0.7,"VE",0.406,0.203,0.525
+"Ethiopia","Very high","Sp","PCV13","D2","E2",0.7,"Mean",10000,10000,10000
+"Ethiopia","Very high","Sp","PCV13","D2","E2",0.7,"alpha",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D2","E2",0.7,"beta",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D3","E2",0.7,"VE",0.406,0.203,0.525
+"Ethiopia","Very high","Sp","PCV13","D3","E2",0.7,"Mean",10000,10000,10000
+"Ethiopia","Very high","Sp","PCV13","D3","E2",0.7,"alpha",100,100,100
+"Ethiopia","Very high","Sp","PCV13","D3","E2",0.7,"beta",100,100,100
+"Ethiopia","Very high","Rota","ROTARIX","D1","E1",1,"VE",0.5,0.38,0.65
+"Ethiopia","Very high","Rota","ROTARIX","D1","E1",1,"Mean",13.18,8.99,20.54
+"Ethiopia","Very high","Rota","ROTARIX","D1","E1",1,"alpha",0.4,0.4,0.4
+"Ethiopia","Very high","Rota","ROTARIX","D1","E1",1,"beta",32.95,22.475,51.35
+"Ethiopia","Very high","Rota","ROTARIX","D2","E1",1,"VE",0.79,0.75,0.82
+"Ethiopia","Very high","Rota","ROTARIX","D2","E1",1,"Mean",13.18,8.99,20.54
+"Ethiopia","Very high","Rota","ROTARIX","D2","E1",1,"alpha",0.4,0.4,0.4
+"Ethiopia","Very high","Rota","ROTARIX","D2","E1",1,"beta",32.95,22.475,51.35
+"Ethiopia","Very high","Rota","ROTARIX","D3","E1",1,"VE",0.79,0.75,0.82
+"Ethiopia","Very high","Rota","ROTARIX","D3","E1",1,"Mean",13.18,8.99,20.54
+"Ethiopia","Very high","Rota","ROTARIX","D3","E1",1,"alpha",0.4,0.4,0.4
+"Ethiopia","Very high","Rota","ROTARIX","D3","E1",1,"beta",32.95,22.475,51.35
+"Ethiopia","Very high","Rota","ROTARIX","D1","E2",0.85,"VE",0.425,0.323,0.5525
+"Ethiopia","Very high","Rota","ROTARIX","D1","E2",0.85,"Mean",13.18,8.99,20.54
+"Ethiopia","Very high","Rota","ROTARIX","D1","E2",0.85,"alpha",0.4,0.4,0.4
+"Ethiopia","Very high","Rota","ROTARIX","D1","E2",0.85,"beta",32.95,22.475,51.35
+"Ethiopia","Very high","Rota","ROTARIX","D2","E2",0.85,"VE",0.6715,0.6375,0.697
+"Ethiopia","Very high","Rota","ROTARIX","D2","E2",0.85,"Mean",13.18,8.99,20.54
+"Ethiopia","Very high","Rota","ROTARIX","D2","E2",0.85,"alpha",0.4,0.4,0.4
+"Ethiopia","Very high","Rota","ROTARIX","D2","E2",0.85,"beta",32.95,22.475,51.35
+"Ethiopia","Very high","Rota","ROTARIX","D3","E2",0.85,"VE",0.6715,0.6375,0.697
+"Ethiopia","Very high","Rota","ROTARIX","D3","E2",0.85,"Mean",13.18,8.99,20.54
+"Ethiopia","Very high","Rota","ROTARIX","D3","E2",0.85,"alpha",0.4,0.4,0.4
+"Ethiopia","Very high","Rota","ROTARIX","D3","E2",0.85,"beta",32.95,22.475,51.35
+"Ethiopia","Very high","Hib","Hib vaccine","D1","E1",1,"VE",0.59,0,0.86
+"Ethiopia","Very high","Hib","Hib vaccine","D1","E1",1,"Mean",10000,10000,10000
+"Ethiopia","Very high","Hib","Hib vaccine","D1","E1",1,"alpha",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D1","E1",1,"beta",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D2","E1",1,"VE",0.92,0.69,0.98
+"Ethiopia","Very high","Hib","Hib vaccine","D2","E1",1,"Mean",10000,10000,10000
+"Ethiopia","Very high","Hib","Hib vaccine","D2","E1",1,"alpha",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D2","E1",1,"beta",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D3","E1",1,"VE",0.93,0.83,0.97
+"Ethiopia","Very high","Hib","Hib vaccine","D3","E1",1,"Mean",10000,10000,10000
+"Ethiopia","Very high","Hib","Hib vaccine","D3","E1",1,"alpha",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D3","E1",1,"beta",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D1","E2",0.7,"VE",0.413,0,0.602
+"Ethiopia","Very high","Hib","Hib vaccine","D1","E2",0.7,"Mean",10000,10000,10000
+"Ethiopia","Very high","Hib","Hib vaccine","D1","E2",0.7,"alpha",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D1","E2",0.7,"beta",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D2","E2",0.7,"VE",0.644,0.483,0.686
+"Ethiopia","Very high","Hib","Hib vaccine","D2","E2",0.7,"Mean",10000,10000,10000
+"Ethiopia","Very high","Hib","Hib vaccine","D2","E2",0.7,"alpha",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D2","E2",0.7,"beta",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D3","E2",0.7,"VE",0.651,0.581,0.679
+"Ethiopia","Very high","Hib","Hib vaccine","D3","E2",0.7,"Mean",10000,10000,10000
+"Ethiopia","Very high","Hib","Hib vaccine","D3","E2",0.7,"alpha",100,100,100
+"Ethiopia","Very high","Hib","Hib vaccine","D3","E2",0.7,"beta",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D1","E1",1,"VE",0.29,0.15,0.38
+"Sri Lanka","Low","Sp","PCV13","D1","E1",1,"Mean",10000,10000,10000
+"Sri Lanka","Low","Sp","PCV13","D1","E1",1,"alpha",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D1","E1",1,"beta",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D2","E1",1,"VE",0.58,0.29,0.75
+"Sri Lanka","Low","Sp","PCV13","D2","E1",1,"Mean",10000,10000,10000
+"Sri Lanka","Low","Sp","PCV13","D2","E1",1,"alpha",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D2","E1",1,"beta",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D3","E1",1,"VE",0.58,0.29,0.75
+"Sri Lanka","Low","Sp","PCV13","D3","E1",1,"Mean",10000,10000,10000
+"Sri Lanka","Low","Sp","PCV13","D3","E1",1,"alpha",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D3","E1",1,"beta",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D1","E2",0.7,"VE",0.203,0.105,0.266
+"Sri Lanka","Low","Sp","PCV13","D1","E2",0.7,"Mean",10000,10000,10000
+"Sri Lanka","Low","Sp","PCV13","D1","E2",0.7,"alpha",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D1","E2",0.7,"beta",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D2","E2",0.7,"VE",0.406,0.203,0.525
+"Sri Lanka","Low","Sp","PCV13","D2","E2",0.7,"Mean",10000,10000,10000
+"Sri Lanka","Low","Sp","PCV13","D2","E2",0.7,"alpha",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D2","E2",0.7,"beta",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D3","E2",0.7,"VE",0.406,0.203,0.525
+"Sri Lanka","Low","Sp","PCV13","D3","E2",0.7,"Mean",10000,10000,10000
+"Sri Lanka","Low","Sp","PCV13","D3","E2",0.7,"alpha",100,100,100
+"Sri Lanka","Low","Sp","PCV13","D3","E2",0.7,"beta",100,100,100
+"Sri Lanka","Low","Rota","ROTARIX","D1","E1",1,"VE",0.63,0.5,0.79
+"Sri Lanka","Low","Rota","ROTARIX","D1","E1",1,"Mean",176.8,114.7,268
+"Sri Lanka","Low","Rota","ROTARIX","D1","E1",1,"alpha",0.9,0.9,0.9
+"Sri Lanka","Low","Rota","ROTARIX","D1","E1",1,"beta",196.4444444,127.4444444,297.7777778
+"Sri Lanka","Low","Rota","ROTARIX","D2","E1",1,"VE",1,0.99,1
+"Sri Lanka","Low","Rota","ROTARIX","D2","E1",1,"Mean",176.8,114.7,268
+"Sri Lanka","Low","Rota","ROTARIX","D2","E1",1,"alpha",0.9,0.9,0.9
+"Sri Lanka","Low","Rota","ROTARIX","D2","E1",1,"beta",196.4444444,127.4444444,297.7777778
+"Sri Lanka","Low","Rota","ROTARIX","D3","E1",1,"VE",1,0.99,1
+"Sri Lanka","Low","Rota","ROTARIX","D3","E1",1,"Mean",176.8,114.7,268
+"Sri Lanka","Low","Rota","ROTARIX","D3","E1",1,"alpha",0.9,0.9,0.9
+"Sri Lanka","Low","Rota","ROTARIX","D3","E1",1,"beta",196.4444444,127.4444444,297.7777778
+"Sri Lanka","Low","Rota","ROTARIX","D1","E2",0.85,"VE",0.5355,0.425,0.6715
+"Sri Lanka","Low","Rota","ROTARIX","D1","E2",0.85,"Mean",176.8,114.7,268
+"Sri Lanka","Low","Rota","ROTARIX","D1","E2",0.85,"alpha",0.9,0.9,0.9
+"Sri Lanka","Low","Rota","ROTARIX","D1","E2",0.85,"beta",196.4444444,127.4444444,297.7777778
+"Sri Lanka","Low","Rota","ROTARIX","D2","E2",0.85,"VE",0.85,0.8415,0.85
+"Sri Lanka","Low","Rota","ROTARIX","D2","E2",0.85,"Mean",176.8,114.7,268
+"Sri Lanka","Low","Rota","ROTARIX","D2","E2",0.85,"alpha",0.9,0.9,0.9
+"Sri Lanka","Low","Rota","ROTARIX","D2","E2",0.85,"beta",196.4444444,127.4444444,297.7777778
+"Sri Lanka","Low","Rota","ROTARIX","D3","E2",0.85,"VE",0.85,0.8415,0.85
+"Sri Lanka","Low","Rota","ROTARIX","D3","E2",0.85,"Mean",176.8,114.7,268
+"Sri Lanka","Low","Rota","ROTARIX","D3","E2",0.85,"alpha",0.9,0.9,0.9
+"Sri Lanka","Low","Rota","ROTARIX","D3","E2",0.85,"beta",196.4444444,127.4444444,297.7777778
+"Sri Lanka","Low","Hib","Hib vaccine","D1","E1",1,"VE",0.59,0,0.86
+"Sri Lanka","Low","Hib","Hib vaccine","D1","E1",1,"Mean",10000,10000,10000
+"Sri Lanka","Low","Hib","Hib vaccine","D1","E1",1,"alpha",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D1","E1",1,"beta",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D2","E1",1,"VE",0.92,0.69,0.98
+"Sri Lanka","Low","Hib","Hib vaccine","D2","E1",1,"Mean",10000,10000,10000
+"Sri Lanka","Low","Hib","Hib vaccine","D2","E1",1,"alpha",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D2","E1",1,"beta",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D3","E1",1,"VE",0.93,0.83,0.97
+"Sri Lanka","Low","Hib","Hib vaccine","D3","E1",1,"Mean",10000,10000,10000
+"Sri Lanka","Low","Hib","Hib vaccine","D3","E1",1,"alpha",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D3","E1",1,"beta",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D1","E2",0.7,"VE",0.413,0,0.602
+"Sri Lanka","Low","Hib","Hib vaccine","D1","E2",0.7,"Mean",10000,10000,10000
+"Sri Lanka","Low","Hib","Hib vaccine","D1","E2",0.7,"alpha",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D1","E2",0.7,"beta",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D2","E2",0.7,"VE",0.644,0.483,0.686
+"Sri Lanka","Low","Hib","Hib vaccine","D2","E2",0.7,"Mean",10000,10000,10000
+"Sri Lanka","Low","Hib","Hib vaccine","D2","E2",0.7,"alpha",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D2","E2",0.7,"beta",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D3","E2",0.7,"VE",0.651,0.581,0.679
+"Sri Lanka","Low","Hib","Hib vaccine","D3","E2",0.7,"Mean",10000,10000,10000
+"Sri Lanka","Low","Hib","Hib vaccine","D3","E2",0.7,"alpha",100,100,100
+"Sri Lanka","Low","Hib","Hib vaccine","D3","E2",0.7,"beta",100,100,100
+"Belgium","Very low","Sp","PCV13","D1","E1",1,"VE",0.29,0.15,0.38
+"Belgium","Very low","Sp","PCV13","D1","E1",1,"Mean",10000,10000,10000
+"Belgium","Very low","Sp","PCV13","D1","E1",1,"alpha",100,100,100
+"Belgium","Very low","Sp","PCV13","D1","E1",1,"beta",100,100,100
+"Belgium","Very low","Sp","PCV13","D2","E1",1,"VE",0.58,0.29,0.75
+"Belgium","Very low","Sp","PCV13","D2","E1",1,"Mean",10000,10000,10000
+"Belgium","Very low","Sp","PCV13","D2","E1",1,"alpha",100,100,100
+"Belgium","Very low","Sp","PCV13","D2","E1",1,"beta",100,100,100
+"Belgium","Very low","Sp","PCV13","D3","E1",1,"VE",0.58,0.29,0.75
+"Belgium","Very low","Sp","PCV13","D3","E1",1,"Mean",10000,10000,10000
+"Belgium","Very low","Sp","PCV13","D3","E1",1,"alpha",100,100,100
+"Belgium","Very low","Sp","PCV13","D3","E1",1,"beta",100,100,100
+"Belgium","Very low","Sp","PCV13","D1","E2",0.7,"VE",0.203,0.105,0.266
+"Belgium","Very low","Sp","PCV13","D1","E2",0.7,"Mean",10000,10000,10000
+"Belgium","Very low","Sp","PCV13","D1","E2",0.7,"alpha",100,100,100
+"Belgium","Very low","Sp","PCV13","D1","E2",0.7,"beta",100,100,100
+"Belgium","Very low","Sp","PCV13","D2","E2",0.7,"VE",0.406,0.203,0.525
+"Belgium","Very low","Sp","PCV13","D2","E2",0.7,"Mean",10000,10000,10000
+"Belgium","Very low","Sp","PCV13","D2","E2",0.7,"alpha",100,100,100
+"Belgium","Very low","Sp","PCV13","D2","E2",0.7,"beta",100,100,100
+"Belgium","Very low","Sp","PCV13","D3","E2",0.7,"VE",0.406,0.203,0.525
+"Belgium","Very low","Sp","PCV13","D3","E2",0.7,"Mean",10000,10000,10000
+"Belgium","Very low","Sp","PCV13","D3","E2",0.7,"alpha",100,100,100
+"Belgium","Very low","Sp","PCV13","D3","E2",0.7,"beta",100,100,100
+"Belgium","Very low","Rota","ROTARIX","D1","E1",1,"VE",0.63,0.5,0.79
+"Belgium","Very low","Rota","ROTARIX","D1","E1",1,"Mean",176.8,114.7,268
+"Belgium","Very low","Rota","ROTARIX","D1","E1",1,"alpha",0.9,0.9,0.9
+"Belgium","Very low","Rota","ROTARIX","D1","E1",1,"beta",196.4444444,127.4444444,297.7777778
+"Belgium","Very low","Rota","ROTARIX","D2","E1",1,"VE",1,0.99,1
+"Belgium","Very low","Rota","ROTARIX","D2","E1",1,"Mean",176.8,114.7,268
+"Belgium","Very low","Rota","ROTARIX","D2","E1",1,"alpha",0.9,0.9,0.9
+"Belgium","Very low","Rota","ROTARIX","D2","E1",1,"beta",196.4444444,127.4444444,297.7777778
+"Belgium","Very low","Rota","ROTARIX","D3","E1",1,"VE",1,0.99,1
+"Belgium","Very low","Rota","ROTARIX","D3","E1",1,"Mean",176.8,114.7,268
+"Belgium","Very low","Rota","ROTARIX","D3","E1",1,"alpha",0.9,0.9,0.9
+"Belgium","Very low","Rota","ROTARIX","D3","E1",1,"beta",196.4444444,127.4444444,297.7777778
+"Belgium","Very low","Rota","ROTARIX","D1","E2",0.85,"VE",0.5355,0.425,0.6715
+"Belgium","Very low","Rota","ROTARIX","D1","E2",0.85,"Mean",176.8,114.7,268
+"Belgium","Very low","Rota","ROTARIX","D1","E2",0.85,"alpha",0.9,0.9,0.9
+"Belgium","Very low","Rota","ROTARIX","D1","E2",0.85,"beta",196.4444444,127.4444444,297.7777778
+"Belgium","Very low","Rota","ROTARIX","D2","E2",0.85,"VE",0.85,0.8415,0.85
+"Belgium","Very low","Rota","ROTARIX","D2","E2",0.85,"Mean",176.8,114.7,268
+"Belgium","Very low","Rota","ROTARIX","D2","E2",0.85,"alpha",0.9,0.9,0.9
+"Belgium","Very low","Rota","ROTARIX","D2","E2",0.85,"beta",196.4444444,127.4444444,297.7777778
+"Belgium","Very low","Rota","ROTARIX","D3","E2",0.85,"VE",0.85,0.8415,0.85
+"Belgium","Very low","Rota","ROTARIX","D3","E2",0.85,"Mean",176.8,114.7,268
+"Belgium","Very low","Rota","ROTARIX","D3","E2",0.85,"alpha",0.9,0.9,0.9
+"Belgium","Very low","Rota","ROTARIX","D3","E2",0.85,"beta",196.4444444,127.4444444,297.7777778
+"Belgium","Very low","Hib","Hib vaccine","D1","E1",1,"VE",0.59,0,0.86
+"Belgium","Very low","Hib","Hib vaccine","D1","E1",1,"Mean",10000,10000,10000
+"Belgium","Very low","Hib","Hib vaccine","D1","E1",1,"alpha",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D1","E1",1,"beta",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D2","E1",1,"VE",0.92,0.69,0.98
+"Belgium","Very low","Hib","Hib vaccine","D2","E1",1,"Mean",10000,10000,10000
+"Belgium","Very low","Hib","Hib vaccine","D2","E1",1,"alpha",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D2","E1",1,"beta",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D3","E1",1,"VE",0.93,0.83,0.97
+"Belgium","Very low","Hib","Hib vaccine","D3","E1",1,"Mean",10000,10000,10000
+"Belgium","Very low","Hib","Hib vaccine","D3","E1",1,"alpha",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D3","E1",1,"beta",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D1","E2",0.7,"VE",0.413,0,0.602
+"Belgium","Very low","Hib","Hib vaccine","D1","E2",0.7,"Mean",10000,10000,10000
+"Belgium","Very low","Hib","Hib vaccine","D1","E2",0.7,"alpha",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D1","E2",0.7,"beta",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D2","E2",0.7,"VE",0.644,0.483,0.686
+"Belgium","Very low","Hib","Hib vaccine","D2","E2",0.7,"Mean",10000,10000,10000
+"Belgium","Very low","Hib","Hib vaccine","D2","E2",0.7,"alpha",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D2","E2",0.7,"beta",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D3","E2",0.7,"VE",0.651,0.581,0.679
+"Belgium","Very low","Hib","Hib vaccine","D3","E2",0.7,"Mean",10000,10000,10000
+"Belgium","Very low","Hib","Hib vaccine","D3","E2",0.7,"alpha",100,100,100
+"Belgium","Very low","Hib","Hib vaccine","D3","E2",0.7,"beta",100,100,100

@@ -1,0 +1,113 @@
+Country,world_bank_income,who_region,mortality_group,country_code
+Afghanistan,Low income,EMR - Eastern Mediterranean Region,Very high,AFG
+Albania,Upper middle income,EUR - Europe Region,Medium,ALB
+Angola,Lower middle income,AFR - Africa Region,Very high,AGO
+Armenia,Lower middle income,EUR - Europe Region,Medium,ARM
+Azerbaijan,Upper middle income,EUR - Europe Region,High,AZE
+Bangladesh,Lower middle income,SEAR - South East Asia Region,High,BGD
+Belize,Upper middle income,AMR - Americas Region,Medium,BLZ
+Benin,Low income,AFR - Africa Region,Very high,BEN
+Bhutan,Lower middle income,SEAR - South East Asia Region,High,BTN
+"Bolivia, Plurinational State of",Lower middle income,AMR - Americas Region,Very high,BOL
+Bosnia and Herzegovina,Upper middle income,EUR - Europe Region,Low,BIH
+Burkina Faso,Low income,AFR - Africa Region,Very high,BFA
+Burundi,Low income,AFR - Africa Region,Very high,BDI
+Cabo Verde,Lower middle income,AFR - Africa Region,Medium,CPV
+Cambodia,Lower middle income,WPR - Western Pacific Region,High,KHM
+Cameroon,Lower middle income,AFR - Africa Region,Very high,CMR
+Central African Republic,Low income,AFR - Africa Region,Very high,CAF
+Chad,Low income,AFR - Africa Region,Very high,TCD
+China,Upper middle income,WPR - Western Pacific Region,Medium,CHN
+Comoros,Low income,AFR - Africa Region,Very high,COM
+Congo,Lower middle income,AFR - Africa Region,Very high,COG
+Cuba,Upper middle income,AMR - Americas Region,Low,CUB
+Cote d'Ivoire,Lower middle income,AFR - Africa Region,Very high,CIV
+"Korea, Democratic People's Republic of",Low income,SEAR - South East Asia Region,Medium,PRK
+"Congo, the Democratic Republic of the",Low income,AFR - Africa Region,Very high,COD
+Djibouti,Lower middle income,EMR - Eastern Mediterranean Region,Very high,DJI
+Egypt,Lower middle income,EMR - Eastern Mediterranean Region,Medium,EGY
+El Salvador,Lower middle income,AMR - Americas Region,Medium,SLV
+Eritrea,Low income,AFR - Africa Region,High,ERI
+Ethiopia,Low income,AFR - Africa Region,Very high,ETH
+Fiji,Upper middle income,WPR - Western Pacific Region,Medium,FJI
+Gambia,Low income,AFR - Africa Region,Very high,GMB
+Georgia,Lower middle income,EUR - Europe Region,Low,GEO
+Ghana,Lower middle income,AFR - Africa Region,Very high,GHA
+Guatemala,Lower middle income,AMR - Americas Region,High,GTM
+Guinea,Low income,AFR - Africa Region,Very high,GIN
+Guinea-Bissau,Low income,AFR - Africa Region,Very high,GNB
+Guyana,Upper middle income,AMR - Americas Region,High,GUY
+Haiti,Low income,AMR - Americas Region,Very high,HTI
+Honduras,Lower middle income,AMR - Americas Region,High,HND
+India,Lower middle income,SEAR - South East Asia Region,High,IND
+Indonesia,Lower middle income,SEAR - South East Asia Region,High,IDN
+Iraq,Upper middle income,EMR - Eastern Mediterranean Region,High,IRQ
+Kenya,Lower middle income,AFR - Africa Region,High,KEN
+Kiribati,Lower middle income,WPR - Western Pacific Region,High,KIR
+Kosovo,Lower middle income,EUR - Europe Region,Very high,XK
+Kyrgyzstan,Lower middle income,EUR - Europe Region,Medium,KGZ
+Lao People's Democratic Republic,Lower middle income,WPR - Western Pacific Region,High,LAO
+Lesotho,Lower middle income,AFR - Africa Region,Very high,LSO
+Liberia,Low income,AFR - Africa Region,Very high,LBR
+Madagascar,Low income,AFR - Africa Region,High,MDG
+Malawi,Low income,AFR - Africa Region,Very high,MWI
+Mali,Low income,AFR - Africa Region,Very high,MLI
+Marshall Islands,Upper middle income,WPR - Western Pacific Region,Very high,MHL
+Mauritania,Lower middle income,AFR - Africa Region,Very high,MRT
+"Micronesia, Federated States of",Lower middle income,WPR - Western Pacific Region,High,FSM
+Mongolia,Lower middle income,WPR - Western Pacific Region,Medium,MNG
+Morocco,Lower middle income,EMR - Eastern Mediterranean Region,High,MAR
+Mozambique,Low income,AFR - Africa Region,Very high,MOZ
+Myanmar,Lower middle income,SEAR - South East Asia Region,High,MMR
+Nepal,Low income,SEAR - South East Asia Region,High,NPL
+Nicaragua,Lower middle income,AMR - Americas Region,Medium,NIC
+Niger,Low income,AFR - Africa Region,Very high,NER
+Nigeria,Lower middle income,AFR - Africa Region,Very high,NGA
+Pakistan,Lower middle income,EMR - Eastern Mediterranean Region,Very high,PAK
+"Palestine, State of",Lower middle income,EMR - Eastern Mediterranean Region,Medium,PSE
+Papua New Guinea,Lower middle income,WPR - Western Pacific Region,High,PNG
+Paraguay,Upper middle income,AMR - Americas Region,High,PRY
+Philippines,Lower middle income,WPR - Western Pacific Region,High,PHL
+"Moldova, Republic of",Lower middle income,EUR - Europe Region,Medium,MDA
+Rwanda,Low income,AFR - Africa Region,Very high,RWA
+Samoa,Upper middle income,WPR - Western Pacific Region,Medium,WSM
+Sao Tome and Principe,Lower middle income,AFR - Africa Region,High,STP
+Senegal,Low income,AFR - Africa Region,High,SEN
+Sierra Leone,Low income,AFR - Africa Region,Very high,SLE
+Solomon Islands,Lower middle income,WPR - Western Pacific Region,High,SLB
+Somalia,Low income,EMR - Eastern Mediterranean Region,Very high,SOM
+South Sudan,Low income,AFR - Africa Region,Very high,SSD
+Sri Lanka,Lower middle income,SEAR - South East Asia Region,Low,LKA
+Sudan,Lower middle income,EMR - Eastern Mediterranean Region,Very high,SDN
+Swaziland,Lower middle income,AFR - Africa Region,Very high,SWZ
+Syrian Arab Republic,Lower middle income,EMR - Eastern Mediterranean Region,Medium,SYR
+Tajikistan,Lower middle income,EUR - Europe Region,High,TJK
+Timor-Leste,Lower middle income,SEAR - South East Asia Region,High,TLS
+Togo,Low income,AFR - Africa Region,Very high,TGO
+Tonga,Upper middle income,WPR - Western Pacific Region,Medium,TON
+Tunisia,Lower middle income,EMR - Eastern Mediterranean Region,Medium,TUN
+Turkmenistan,Upper middle income,EUR - Europe Region,High,TKM
+Tuvalu,Upper middle income,WPR - Western Pacific Region,High,TUV
+Uganda,Low income,AFR - Africa Region,Very high,UGA
+Ukraine,Lower middle income,EUR - Europe Region,Low,UKR
+"Tanzania, United Republic of",Low income,AFR - Africa Region,Very high,TZA
+Uzbekistan,Lower middle income,EUR - Europe Region,High,UZB
+Vanuatu,Lower middle income,WPR - Western Pacific Region,High,VUT
+Viet Nam,Lower middle income,WPR - Western Pacific Region,Medium,VNM
+Yemen,Lower middle income,EMR - Eastern Mediterranean Region,High,YEM
+Zambia,Lower middle income,AFR - Africa Region,Very high,ZMB
+Zimbabwe,Low income,AFR - Africa Region,Very high,ZWE
+Belarus,Upper middle income,EUR - Europe Region,Very low,BLR
+Colombia,Upper middle income,AMR - Americas Region,Medium,COL
+Algeria,Upper middle income,AFR - Africa Region,High,DZA
+Ecuador,Upper middle income,AMR - Americas Region,Medium,ECU
+"Iran, Islamic Republic of",Upper middle income,EMR - Eastern Mediterranean Region,Medium,IRN
+Jamaica,Upper middle income,AMR - Americas Region,Medium,JAM
+Jordan,Lower middle income,EMR - Eastern Mediterranean Region,Medium,JOR
+Namibia,Upper middle income,AFR - Africa Region,High,NAM
+Peru,Upper middle income,AMR - Americas Region,High,PER
+Serbia,Upper middle income,EUR - Europe Region,Low,SRB
+Thailand,Upper middle income,SEAR - South East Asia Region,Low,THA
+"Venezuela, Bolivarian Republic of",Upper middle income,AMR - Americas Region,Medium,VEN
+South Africa,Upper middle income,AFR - Africa Region,High,ZAF
+"Macedonia, the former Yugoslav Republic of",Upper middle income,EUR - Europe Region,Low,MKD

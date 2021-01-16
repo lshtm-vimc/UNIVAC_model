@@ -1,0 +1,15 @@
+pathogen,disease,efficacy
+Sp,Sp meningitis,E1
+Sp,Sp Meningitis sequelae,E1
+Sp,Sp pneumonia (severe),E1
+Sp,Sp NPNM (severe),E1
+Sp,Sp pneumonia (non-severe),E2
+Sp,Sp NPNM (non-severe),E2
+Sp,Sp acute otitis media,E2
+Rota,Severe RVGE,E1
+Rota,Non-severe RVGE,E2
+Hib,Hib pneumonia (non-severe),E2
+Hib,Hib pneumonia (severe),E1
+Hib,Hib meningitis,E1
+Hib,Hib NPNM,E1
+Hib,Hib Meningitis sequelae,E1

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584652501852.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2884661488",
+    "id" : "62FE95F8",
+    "lastKnownWriteTime" : 1584651709,
+    "last_content_update" : 1584651709,
+    "path" : "~/Documents/VIMC/UNIVAC_model/Sandbox/mypackage/src/cppFunc.cpp",
+    "project_path" : "src/cppFunc.cpp",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}
